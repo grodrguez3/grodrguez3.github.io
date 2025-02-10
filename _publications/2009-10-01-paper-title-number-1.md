@@ -1,7 +1,6 @@
 ---
 title: "RetOCTNet: Deep Learning–Based Segmentation of OCT Images Following Retinal Ganglion Cell Injury"
 collection: publications
-permalink: 'https://tvst.arvojournals.org/article.aspx?articleid=2802543'
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-2-03
 venue: 'Translational Vision Science & Technology'
