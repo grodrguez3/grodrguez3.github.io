@@ -1,12 +1,20 @@
----
-title: "Paper Title Number 1"
+title: "RetOCTNet: Deep Learning–Based Segmentation of OCT Images Following Retinal Ganglion Cell Injury"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: 'https://tvst.arvojournals.org/article.aspx?articleid=2802543'
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2025-2-03
+venue: 'Translational Vision Science & Technology'
+paperurl: 'https://tvst.arvojournals.org/article.aspx?articleid=2802543'
+citation: '@article{sanchez2025retoctnet,
+  title={RetOCTNet: Deep Learning--Based Segmentation of OCT Images Following Retinal Ganglion Cell Injury},
+  author={Sanchez-Rodriguez, Gabriela and Lou, Linjiang and Pardue, Machelle T and Feola, Andrew J},
+  journal={Translational Vision Science \& Technology},
+  volume={14},
+  number={2},
+  pages={4--4},
+  year={2025},
+  publisher={The Association for Research in Vision and Ophthalmology}
+}'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
