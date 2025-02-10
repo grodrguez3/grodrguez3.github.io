@@ -260,6 +260,14 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _vision
+  - scope:
+      path: ""
+      type: vision
+    values:
+      layout: single
+      author_profile: true
+      share: true
   # _talks
   - scope:
       path: ""
